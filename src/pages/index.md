@@ -12,7 +12,7 @@ sections:
     num_projects_displayed: 6
     section_id: latest-projects
     view_all_url: portfolio/index.html
-    subtitle: An optional subtitle of the section
+    subtitle: ''
     title: Recent Work
     type: portfolioblock
     layout_style: mosaic
@@ -30,7 +30,7 @@ sections:
     title: Contact Us
     section_id: contact
     component: ContactBlock
-    subtitle: An optional subtitle of the section
+    subtitle: ''
 menus:
   main:
     title: Home
