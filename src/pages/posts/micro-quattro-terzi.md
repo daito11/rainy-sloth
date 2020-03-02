@@ -1,11 +1,9 @@
 ---
-title: MICRO QUATTRO TERZI
+title: Micro Quattro Terzi
 date: 2020-03-02T16:56:19.150Z
 thumb_img_path: /images/olympus_p8280521-1-1280x640.jpg
 template: post
 ---
-# MICRO QUATTRO TERZI
-
 ### Storia di mancata maneggevolezza
 
 Il mio primo, vero approccio alla fotografia digitale risale al 2014. Mi regalarono una Nikon d3200, reflex entry level, in bundle con un Nikkor 18-105 mm. Non ero nemmeno lontanamente interessato alla fotografia, nonostante mi affascinassero le arti visive.
