@@ -1,6 +1,6 @@
 ---
 title: Portfolio
-subtitle: This is an optional subtitle for the portfolio page.
+subtitle: Le categorie dei nostri progetti
 layout_style: mosaic
 menus:
   main:
@@ -8,3 +8,4 @@ menus:
     weight: 2
 template: portfolio
 ---
+
