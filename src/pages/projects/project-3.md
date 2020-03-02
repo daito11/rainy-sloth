@@ -2,8 +2,8 @@
 title: Project Title 3
 subtitle: Optional Project Subtitle
 date: '2019-04-08'
-thumb_img_path: images/3_thumb.jpg
-content_img_path: images/3.jpg
+thumb_img_path: /images/ds2_2164.jpg
+content_img_path: /images/ds2_2164.jpg
 template: project
 ---
 
