@@ -4,6 +4,7 @@ sections:
   - type: contentblock
     component: ContentBlock
     image: /images/shutterspeed.png
+    title: Shutter Speed
   - type: heroblock
     title: Shutter Speed
     section_id: hero
