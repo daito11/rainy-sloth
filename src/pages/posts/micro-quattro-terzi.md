@@ -20,7 +20,7 @@ Non essendo un fotografo professionista, cercavo la maneggevolezza e la praticit
 
 La tecnologia mirrorless ha sicuramente rivoluzionato il panorama della fotografia; con i suoi pro e i suoi contro, ha imposto nuovi standard tecnologici e cambiato profondamente il mercato diversificando, per certi aspetti, l'approccio alla fotografia.
 
-Nel 2008, Panasonic e Olympus lanciano un nuovo sistema, il**Micro Quattro Terzi**successore del**Quattro Terzi**, dotato di un sensore 18 mm x 13,5 mm e di viewfinder digitale, sostituendo così lo specchio reflex e il pentaprisma.
+Nel 2008, Panasonic e Olympus lanciano un nuovo sistema, il **Micro Quattro Terzi** successore del **Quattro Terzi**, dotato di un sensore 18 mm x 13,5 mm e di viewfinder digitale, sostituendo così lo specchio reflex e il pentaprisma.
 
 Le MFT (Micro Four Thirds) garantiscono dei corpi macchina e delle lenti dalle dimensioni molto ridotte e delle prestazioni paragonabili ai sensori APS-C, reggendo il confronto tecnico ma piazzandosi in diversi settori pratici.
 
