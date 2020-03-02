@@ -42,7 +42,7 @@ Si tratta di un aspetto che va oltre il lato economico, perché accresce la cono
 
 ### Un piccolo arsenale
 
-Personalmente, sono entrato nel sistema meno di un anno fa, acquistando una**Olympus OM-D E-M10 Mark II**in bundle con un M.Zuiko Digital 12-50 mm ƒ/3.5-6.3, praticamente un tuttofare, dotato anche di una funzione macro niente male.
+Personalmente, sono entrato nel sistema meno di un anno fa, acquistando una **Olympus OM-D E-M10 Mark II** in bundle con un M.Zuiko Digital 12-50 mm ƒ/3.5-6.3, praticamente un tuttofare, dotato anche di una funzione macro niente male.
 
 Ho arricchito il corredo delle lenti acquistando delle ottiche fisse, le migliori per imparare e al tempo stesso avere delle foto di qualità superiore: nello specifico un 17 mm ƒ/2.8 pancake M.Zuiko (equivalente 34 mm su FF), ottimo per la street photography, e un 25 mm ƒ/1.7 Panasonic Lumix, the nifty-fifty, per i ritratti contestualizzati con un bokeh pazzesco alla massima apertura.
 
