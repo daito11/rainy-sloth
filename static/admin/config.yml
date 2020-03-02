@@ -37,6 +37,7 @@ collections:
               - blue
               - violet
               - yellow
+              - black
           - widget: object
             name: header
             label: Header Configuration
