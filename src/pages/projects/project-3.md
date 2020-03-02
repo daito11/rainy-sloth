@@ -1,5 +1,5 @@
 ---
-title: Project Title 3
+title: Landscape Photography
 subtitle: Optional Project Subtitle
 date: '2019-04-08'
 thumb_img_path: /images/ds2_2164.jpg
